@@ -59,7 +59,6 @@ requirements.md
 CI_CD_REVIEW.md
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -107,3 +106,6 @@ completions/
 charts/**/charts/
 charts/**/Chart.lock
 charts/**/*.tgz
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
